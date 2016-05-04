@@ -1,4 +1,4 @@
-name: italclay
+name: Italclay
 favicon: null
 layout_spectrum: 0.48086
 typography_spectrum: 0.49793
@@ -24,6 +24,6 @@ color:
     - '#e9d467'
   brandStrength: 0.6572839487344027
   lightness: 0.8356090013403445
-  saturation: 0.08140183170326054
+  saturation: 0.3125
   rhythmicContrast: 0.6984615316614509
 purpose: []
