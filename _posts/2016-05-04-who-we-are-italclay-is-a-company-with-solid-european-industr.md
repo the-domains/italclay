@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Who we are Italclay is a company with solid European industrial background. Lead by young management team, with more than 30 years of combined experience in construction, projects, manufacturing and international distribution.'
-datePublished: '2016-05-04T03:12:24.873Z'
-dateModified: '2016-05-04T03:11:57.785Z'
+description: You should read this
+datePublished: '2016-05-04T03:20:59.292Z'
+dateModified: '2016-05-04T03:20:50.142Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-who-we-are-italclay-is-a-company-with-solid-european-industr.md
@@ -22,7 +22,12 @@ url: who-we-are-italclay-is-a-company-with-solid-european-industr/index.html
 _type: Article
 
 ---
-**Who we are**  
+**You should read this**
+
+Discover more about us, and how we can help your construction business by supplying a line how high tech, high quality and low cost waterproofing materials.
+
+**Something about us**
+
 Italclay is a company with solid European industrial background. Lead by young management team, with more than 30 years of combined experience in construction, projects, manufacturing and international distribution.
 
 **What we offer**  
