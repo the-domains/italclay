@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Who we are Italclay is a company with solid European industrial background. Lead by young management team, with more than 30 years of combined experience in construction, projects, manufacturing and international distribution.'
-datePublished: '2016-05-04T02:40:46.289Z'
-dateModified: '2016-05-04T02:40:35.972Z'
+description: 'Who we areItalclay is a company with solid European industrial background. Lead by young management team, with more than 30 years of combined experience in construction, projects, manufacturing and international distribution.'
+datePublished: '2016-05-04T02:45:05.046Z'
+dateModified: '2016-05-04T02:41:22.078Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-04-who-we-are-italclay-is-a-company-with-solid-european-industr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-04-who-we-are-italclay-is-a-company-with-solid-european-industr.md
-published: true
+starred: true
 url: who-we-are-italclay-is-a-company-with-solid-european-industr/index.html
 _type: Article
 
