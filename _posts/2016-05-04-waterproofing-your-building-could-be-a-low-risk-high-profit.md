@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Waterproofing your building could be a low risk, high profitable investment.'
-datePublished: '2016-05-04T03:06:31.573Z'
-dateModified: '2016-05-04T03:06:30.989Z'
+datePublished: '2016-05-04T03:07:13.356Z'
+dateModified: '2016-05-04T03:07:12.457Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-waterproofing-your-building-could-be-a-low-risk-high-profit.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-waterproofing-your-building-could-be-a-low-risk-high-profit.md
-published: true
 url: waterproofing-your-building-could-be-a-low-risk-high-profit/index.html
 _type: Article
 
@@ -29,3 +29,4 @@ Italclay is specialized in providing cutting edge waterproofing technologies. Te
 We sale high technology products, and is critical to us to support our partners with outstanding technical support.  
 We are committed to offer best practices standards for quality and manufacture, cutting edge performances, and an unbeatable price-performance proposition.  
 Italclay is value you can feel.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44d35b02-2e67-4bbf-887b-353dac182ad8.jpg)
