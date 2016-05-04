@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Who we areItalclay is a company with solid European industrial background. Lead by young management team, with more than 30 years of combined experience in construction, projects, manufacturing and international distribution.'
-datePublished: '2016-05-04T02:45:05.046Z'
-dateModified: '2016-05-04T02:41:22.078Z'
+datePublished: '2016-05-04T03:00:59.006Z'
+dateModified: '2016-05-04T03:00:58.020Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-who-we-are-italclay-is-a-company-with-solid-european-industr.md
@@ -39,3 +39,4 @@ More than 10 years ago we have the vision that globalization was more an opportu
 
 **Manufacturing policy**  
 Italclay production is made in ISO9001, ISO14001 or CE accredited facilities. Our geotextiles, polyurethanes, GCLs, waterstops are produced in strict accordance with the best international standards covering: production and traceability, mechanical properties, water permeability, aging/UV/chemical resistance and so forth. In addition to this, the production is regularly tested by independent laboratories.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fcc93ba-96d6-4797-8284-583c9552e95a.jpg)
