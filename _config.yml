@@ -1,7 +1,7 @@
 name: italclay
 favicon: null
-layout_spectrum: 0.12189332209527493
-typography_spectrum: 0.7827322874218225
+layout_spectrum: 0.48086
+typography_spectrum: 0.49793
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#161719'
+    - '#ffffff'
+    - '#7b6229'
+    - '#caa532'
+    - '#e9d467'
   brandStrength: 0.6572839487344027
   lightness: 0.8356090013403445
   saturation: 0.08140183170326054
