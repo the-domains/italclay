@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: You should read this
-datePublished: '2016-05-04T03:20:59.292Z'
-dateModified: '2016-05-04T03:20:50.142Z'
+datePublished: '2016-05-04T08:15:31.115Z'
+dateModified: '2016-05-04T08:14:11.653Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-who-we-are-italclay-is-a-company-with-solid-european-industr.md
@@ -25,6 +25,7 @@ _type: Article
 **You should read this**
 
 Discover more about us, and how we can help your construction business by supplying a line how high tech, high quality and low cost waterproofing materials.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/defa3ae0-a1c0-4f18-bef4-599cb3f59136.jpg)
 
 **Something about us**
 
@@ -44,4 +45,3 @@ More than 10 years ago we have the vision that globalization was more an opportu
 
 **Manufacturing policy**  
 Italclay production is made in ISO9001, ISO14001 or CE accredited facilities. Our geotextiles, polyurethanes, GCLs, waterstops are produced in strict accordance with the best international standards covering: production and traceability, mechanical properties, water permeability, aging/UV/chemical resistance and so forth. In addition to this, the production is regularly tested by independent laboratories.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/defa3ae0-a1c0-4f18-bef4-599cb3f59136.jpg)
